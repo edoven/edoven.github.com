@@ -21,14 +21,15 @@
 title: ProductivityGeeks
 #email: helloproductivitygeeks@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ProductivtyGeeks is a collection of interviews to productivity oriented people about their routines, the tools they use and various tips & tricks.
+  ProductivtyGeeks is a collection of interviews to amazing people about their productivity, their routines, the tools they use and various tips & tricks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: prod-geeks
+twitter_username: prod_geeks
 #github_username:  jekyll
+google_analytics: UA-165257242-1
 
 # Build settings
-theme: minima #jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 

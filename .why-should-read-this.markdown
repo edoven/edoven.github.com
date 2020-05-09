@@ -1,0 +1,16 @@
+---
+layout: page
+title: Why should I read this?
+permalink: /why-should-read-this/
+---
+
+We all want to be more productive at work.  
+But often we only know _our_ way of working, _our_ way or organizing the workday or use the tools we need.
+
+What if there is a better way of working?  
+What if our way is not the _best way_?   
+
+We created ProductivityGeeks to inspiring ourselves and other people on how to be more productive at work by showing how different folks get things done.
+    
+  
+_Would you like to be interviewed? Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSdEMfWfOM8rNg-6JPCYntBxvr_COOemmxjGgicqOIw11QX2Fg/viewform?usp=sf_link), thanks!_

@@ -9,6 +9,20 @@ layout: default
 
   {{ content }}
 
+  <h2 class="post-list-heading">What's this?</h2>
+  <div class='post-content'>
+
+    <p>We all want to be more productive at work.<br>
+    But often we only know <em>our</em> way of working, <em>our</em> way or organizing the workday or use the tools we need.</p>
+
+    <p>What if there is a better way of working?<br>
+    What if our way is not the <em>best way</em>?</p>
+
+    <p>We created ProductivityGeeks to inspiring ourselves and other people on how to be more productive at work by showing how different folks get things done.</p>
+  </div>
+  
+
+
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Interviews" }}</h2>
     <ul class="post-list">
@@ -18,7 +32,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            {{ post.title | escape }} - {{ post.subtitle | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
@@ -27,10 +41,5 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
-
-    <!-- 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-    -->
   {%- endif -%}
-
 </div>
