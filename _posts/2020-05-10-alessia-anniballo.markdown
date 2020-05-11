@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alessia Anniballo"
-date:   2020-05-02 10:25:25 +0800
+date:   2020-05-10 10:25:25 +0800
 categories: interview
 subtitle: "Growth product manager at Eletric8"
 ---
@@ -14,7 +14,7 @@ Among other things, I previously worked as a marketing manager in different star
 In my free time I love being outdoor in the nature, reading, doing sport, sewing, dancing and exploring the amazing Singaporean food scene.
 <br />
 
-### How do you manage your todo list or - in general - your tasks?
+### How do you manage your todo list and your tasks?
 Honestly I probably have a lot of room for improvement!  
 At the beginning of the week I create a list of the most important tasks I have to work on.
 I block time slots in my calendar for the most important tasks I absolutely have to work on.  
