@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prod_geeks
 #github_username:  jekyll
 google_analytics: UA-165257242-1
+permalink: /:categories/:title:output_ext
 
 # Build settings
 theme: minima

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Edoardo Venturini"
+title:  "Edoardo Venturini - Data scientist at Twitter"
 date:   2020-05-11 10:25:25 +0800
-categories: interview
-subtitle: "Data Scientist at Twitter"
+categories: interviews
+interviewee-name: "Edoardo Venturini"
+interviewee-description: "Data scientist at Twitter"
 ---
 
 
@@ -61,7 +62,7 @@ After that, I plan my day by adding or removing tasks from my todo list.
 At the end of the day I move the unfinished tasks of the day to the next day section in the todo list.
 
 
-### Do you use any time management tool (e.g. pomodoro technique)?
+### Do you use any time management technique (e.g. pomodoro technique)?
 I use the pomodoro technique but I'm not strict about it.  
 I usually have no-distraction sessions that can vary from 25 minutes to 45 minutes then I take a break.  
 There are some days or periods when I don't use any time management tool and I just go with the flow. After some days I often realize I'm not very productive and I go back to the pomodoro technique.

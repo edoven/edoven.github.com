@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Alessia Anniballo"
+title:  "Alessia Anniballo - Growth product manager at Eletric8"
 date:   2020-05-10 10:25:25 +0800
-categories: interview
-subtitle: "Growth product manager at Eletric8"
+categories: interviews
+interviewee-name: "Alessia Anniballo"
+interviewee-description: "Growth product manager at Eletric8"
 ---
 
 ### What's your job?
@@ -12,7 +13,7 @@ Electric8 helps companies in SE Asia find, scale and sustain product-market fit 
 I joined Electric8 six month ago and I worked on a couple of different projects with a big Telco in Indonesia. 
 Among other things, I previously worked as a marketing manager in different startups.  
 In my free time I love being outdoor in the nature, reading, doing sport, sewing, dancing and exploring the amazing Singaporean food scene.
-<br />
+
 
 ### How do you manage your todo list and your tasks?
 Honestly I probably have a lot of room for improvement!  
@@ -45,7 +46,7 @@ At the beginning of the day I review my weekly todo list and plan the tasks for 
 At the end of the day I check the important tasks I have to do the day after or meeting I have to prepare.
 
 
-### Do you use any time management tool (e.g. pomodoro technique)?
+### Do you use any time management technique (e.g. pomodoro technique)?
 In most of the cases no.  
 Rarely, when I need to do some deep work, I put a timer so I know I have to be razor focused with no distractions.
 
