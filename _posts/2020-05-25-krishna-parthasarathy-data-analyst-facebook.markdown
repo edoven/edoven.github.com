@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Krishna Parthasarathy"
-date:   2020-05-10 10:25:25 +0800
+date:   2020-06-06 10:25:25 +0800
 categories: interview
 subtitle: "Data analyst at Facebook"
 ---
