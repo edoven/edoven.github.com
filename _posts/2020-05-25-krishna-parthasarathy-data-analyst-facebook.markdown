@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Krishna Parthasarathy"
+title:  "Krishna Parthasarathy - Data analyst at Facebook"
 date:   2020-06-06 10:25:25 +0800
 categories: interview
-subtitle: "Data analyst at Facebook"
+interviewee-name: "Krishna Parthasarathy"
+interviewee-description: "Data analyst at Facebook"
 ---
 
 ### What's your job?
